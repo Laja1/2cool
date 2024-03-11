@@ -1,0 +1,10 @@
+<svg width="360" height="200" viewBox="0 0 360 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:luminosity">
+<circle cx="100" cy="100" r="100" fill="#3F3F3F"/>
+<circle cx="100" cy="100" r="97" stroke="white" stroke-opacity="0.3" stroke-width="6"/>
+</g>
+<g style="mix-blend-mode:luminosity">
+<circle cx="260" cy="100" r="100" fill="#3F3F3F" style="mix-blend-mode:luminosity"/>
+<circle cx="260" cy="100" r="97" stroke="white" stroke-opacity="0.3" stroke-width="6"/>
+</g>
+</svg>
