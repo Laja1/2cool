@@ -41,7 +41,7 @@ function First({ navigation, route }) {
         <StatusBar barStyle="light-content" />
         <View style={{ flex: 1 }}>
           <Paystack
-            paystackKey="pk_test_0826237953a96b9a01fe6d3b18878cb546e99324"
+            paystackKey="open your paystackaccount"
             amount={totalPrice}
             billingEmail={email}
             activityIndicatorColor="black"
