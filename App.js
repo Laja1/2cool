@@ -17,7 +17,7 @@ import Checkout from "./component/NavigationScreens/Checkout";
 import Description from "./component/NavigationScreens/Description";
 const Stack = createNativeStackNavigator();
 const client = new ApolloClient({
-  uri: "http://localhost:4200/",
+  uri: "https://toocoolserver.onrender.com/",
   cache: new InMemoryCache(),
 });
 // https://toocoolserver.onrender.com/
